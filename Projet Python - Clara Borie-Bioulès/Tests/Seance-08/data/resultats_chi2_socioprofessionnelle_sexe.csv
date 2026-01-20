@@ -1,0 +1,2 @@
+n_total,chi2,ddl,p_value,phi2,conclusion
+54522,4812.419369442916,8,0.0,0.08826564266613322,On rejette l'hypothèse d'indépendance : il existe une liaison entre catégorie socioprofessionnelle et sexe.
